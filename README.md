@@ -1,6 +1,6 @@
-# assignment2211191
+# assignment1 (2211191)
 
-A new Flutter project.
+Simple Profile Page
 
 ## Getting Started
 
